@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OAuth2.0 and Next.js Miro App Example
 
 This app shows Miro's OAuth2.0 flow from Miro to a client-side app built with Next.js.
@@ -99,3 +100,6 @@ If you want to contribute to this example, or any other Miro Open Source project
 # 🪪 License <a name="license"></a>
 
 [MIT License](https://github.com/miroapp/app-examples/blob/main/LICENSE).
+=======
+# mynextjs
+>>>>>>> 120afd9382f08ec9fbb6a1fb9a47e43e913cc9af
